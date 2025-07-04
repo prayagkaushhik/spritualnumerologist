@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prayag's Numerology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Welcome to Prayag's Numerology</h1>
+    <p>Unlock the secrets of numbers and your destiny</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Numerology</a>
+    <a href="services.html">Services</a>
+    <a href="predictions.html">Daily Predictions</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <h2>Discover Your Life Path</h2>
+    <p>Numerology reveals the divine relationship between numbers and life events. Explore your true self!</p>
+    <img src="images/numerology-chart.jpg" alt="Numerology Chart">
+</div>
+
+<footer>
+    <p>© 2025 Prayag's Numerology. All rights reserved.</p>
+</footer>
+</body>
+</html>

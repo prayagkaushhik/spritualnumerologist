@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Daily Predictions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Daily Numerology Predictions</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Numerology</a>
+    <a href="services.html">Services</a>
+    <a href="predictions.html">Daily Predictions</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <p>Check back daily for your updated number-based forecast!</p>
+    <p><strong>Example (4 July 2025):</strong> People with Life Path 1 should focus on leadership today. Number 5s may experience unexpected travel or change.</p>
+</div>
+
+<footer>
+    <p>© 2025 Prayag's Numerology</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Numerology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>About Numerology</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Numerology</a>
+    <a href="services.html">Services</a>
+    <a href="predictions.html">Daily Predictions</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <p>Numerology is the mystical science of numbers. Each number holds a vibration that influences your personality, destiny, and life path. Learn how your birth date and name shape your future.</p>
+    <img src="images/about.jpg" alt="About Numerology">
+</div>
+
+<footer>
+    <p>© 2025 Prayag's Numerology</p>
+</footer>
+</body>
+</html>
